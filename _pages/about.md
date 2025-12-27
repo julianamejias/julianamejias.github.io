@@ -1,10 +1,8 @@
 ---
-title: "About"
+title: "About me"
 permalink: /about/
 author_profile: true
 ---
-
-## About me
 
 I am Juliana Mejía Sepúlveda, a Ph.D. student in Environmental Engineering at the
 University of Arizona, working with [Dr. Sylvia Sullivan](https://sylviasullivan.github.io/) My research focuses on

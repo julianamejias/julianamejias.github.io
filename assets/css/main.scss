@@ -43,7 +43,8 @@
 ;
 
 
-/* Make author avatar rectangular instead of circular */
+/* Force rectangular author avatar (AcademicPages / Minimal Mistakes) */
+.author__avatar,
 .author__avatar img {
   border-radius: 0 !important;
 }

@@ -4,13 +4,6 @@ title: ""
 author_profile: true
 permalink: /
 ---
-<div style="display:flex; gap:32px; align-items:flex-start; margin-top:1rem; flex-wrap:wrap;">
-
-  <div style="flex:0 0 260px;">
-    <img src="/profile.jpg"
-         alt="Juliana Mejía Sepúlveda"
-         style="width:100%; height:auto; border-radius:0;">
-  </div>
 
   <div style="flex:1; min-width:260px;">
     <p><strong>Hi! I am Juliana Mejía Sepúlveda</strong>, a Ph.D. student in Environmental Engineering at the University of Arizona, working with

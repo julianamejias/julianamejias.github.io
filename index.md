@@ -1,16 +1,23 @@
 ---
-layout: splash
+layout: single
+title: ""
 author_profile: true
-title: "Home"
 permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.0"
 ---
+<div style="display:flex; gap:32px; align-items:flex-start; margin-top:1rem; flex-wrap:wrap;">
 
-<img src="/profile.jpg" alt="Juliana Mejía Sepúlveda" style="width:320px; height:auto; border-radius:0; margin-bottom:16px;">
+  <div style="flex:0 0 260px;">
+    <img src="/profile.jpg"
+         alt="Juliana Mejía Sepúlveda"
+         style="width:100%; height:auto; border-radius:0;">
+  </div>
 
-I am Juliana Mejía Sepúlveda, a Ph.D. student in Environmental Engineering at the
-University of Arizona, working with [Dr. Sylvia Sullivan](https://sylviasullivan.github.io/). My research focuses on
-studying the frequency and duration of aerosol extreme events (AEEs) and their
-main meteorological regimes over the U.S. Southwest.
+  <div style="flex:1; min-width:260px;">
+    <p><strong>Hi! I am Juliana Mejía Sepúlveda</strong>, a Ph.D. student in Environmental Engineering at the University of Arizona, working with
+    <a href="https://sylviasullivan.github.io/" target="_blank">Dr. Sylvia Sullivan</a>.</p>
+
+    <p>My research focuses on the frequency and duration of aerosol extreme events (AEEs) and their associated meteorological regimes over the U.S. Southwest.</p>
+  </div>
+
+</div>
+

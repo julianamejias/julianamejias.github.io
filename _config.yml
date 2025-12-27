@@ -23,7 +23,7 @@ repository               : "julianamejias/julianamejias.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name: "Juliana Mejía Sepúlveda"
-  avatar: "/images/profilev2.jpg"
+  bio_photo: "/images/profilev2.jpg"
   bio: ""
   location: "Tucson, AZ"
   university: "The University of Arizona"

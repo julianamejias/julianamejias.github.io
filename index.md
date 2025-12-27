@@ -7,6 +7,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.0"
 ---
+
+<img src="/profile.jpg" alt="Juliana Mejía Sepúlveda" style="width:320px; height:auto; border-radius:0; margin-bottom:16px;">
+
 I am Juliana Mejía Sepúlveda, a Ph.D. student in Environmental Engineering at the
 University of Arizona, working with [Dr. Sylvia Sullivan](https://sylviasullivan.github.io/). My research focuses on
 studying the frequency and duration of aerosol extreme events (AEEs) and their

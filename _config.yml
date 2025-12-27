@@ -22,15 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "/images/profile.jpg"
-  name             : "Juliana Mejía Sepúlveda"
-  pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "Tucson, AZ"
-  university       : "The University of Arizona"
-  uri              : # URL
-  email            : "julianamejia@arizona.edu" 
+  name: "Juliana Mejía Sepúlveda"
+  avatar: "/profile.jpg"
+  bio: ""
+  location: "Tucson, AZ"
+  university: "The University of Arizona"
+  email: "julianamejia@arizona.edu"
 
   # Academic websites
   academia         : # URL

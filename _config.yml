@@ -24,6 +24,7 @@ repository               : "julianamejias/julianamejias.github.io"
 author:
   name: "Juliana Mejía Sepúlveda"
   bio_photo: "profile.jpg"
+  avatar : "/images/profile.jpg"
   bio: ""
   location: "Tucson, AZ"
   university: "The University of Arizona"

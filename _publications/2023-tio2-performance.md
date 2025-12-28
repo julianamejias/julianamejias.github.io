@@ -1,6 +1,6 @@
 ---
 title: "Photocatalytic performance evaluation of flame‐sprayed and polymeric suspension coatings from TiO2 nanoparticles"
-authors: "Claudia Palacio, Alejandro Álvarez, Andrés F Mejía‐Roldán, Jeaneth P Urquijo, Jhoman Arias, Leidy C Vélez‐Monsalve, <strong>Juliana Mejía-Sepúlveda</strong>, Julio C Saldarriaga, Mauricio A Correa, Fabio Vargas"
+authors: "Claudia Palacio, Alejandro Álvarez, Andrés F Mejía‐Roldán, Jeaneth P Urquijo, Jhoman Arias, Leidy C Vélez‐Monsalve, Juliana Mejía-Sepúlveda, Julio C Saldarriaga, Mauricio A Correa, Fabio Vargas"
 collection: publications
 permalink: /publication/2023-tio2-performance
 venue: "Journal of Chemical Technology & Biotechnology"

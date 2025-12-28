@@ -1,6 +1,6 @@
 ---
 title: "Evaluation of air pollution tolerance index and anticipated performance index of six plant species, in an urban tropical valley: Medellin, Colombia"
-authors: "Mauricio Correa-Ochoa, <strong>Juliana Mejía-Sepúlveda</strong>, Julio Saldarriaga-Molina, Camilo Castro-Jiménez, David Aguiar-Gil"
+authors: "Mauricio Correa-Ochoa, Juliana Mejía-Sepúlveda, Julio Saldarriaga-Molina, Camilo Castro-Jiménez, David Aguiar-Gil"
 collection: publications
 permalink: /publication/2022-apti-api
 venue: "Environmental Science and Pollution Research"

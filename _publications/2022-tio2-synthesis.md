@@ -1,6 +1,6 @@
 ---
 title: "Influence of organic acids on the phases and physical characteristics of titanium dioxide synthesized by sol–gel for air depollution through heterogeneous photocatalysis"
-authors: "Claudia Palacio, Alejandro Alvarez, Andrés F. Mejía-Roldán, Jeaneth P. Urquijo, Jhoman A. Arias, Roger A. Cardona, Leidy C. Vélez-Monsalve, <strong>Juliana Mejía-Sepúlveda</strong>, Julio C. Saldarriaga, Mauricio A. Correa, Fabio Vargasr"
+authors: "Claudia Palacio, Alejandro Alvarez, Andrés F. Mejía-Roldán, Jeaneth P. Urquijo, Jhoman A. Arias, Roger A. Cardona, Leidy C. Vélez-Monsalve, Juliana Mejía-Sepúlveda, Julio C. Saldarriaga, Mauricio A. Correa, Fabio Vargasr"
 collection: publications
 permalink: /publication/2022-tio2-synthesis
 venue: "Journal of Chemical Technology & Biotechnology"

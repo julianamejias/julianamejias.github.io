@@ -48,3 +48,10 @@
 .author__avatar img {
   border-radius: 0 !important;
 }
+
+.archive__item-excerpt,
+.archive__item {
+  strong.author-highlight {
+    font-weight: 700;
+  }
+}

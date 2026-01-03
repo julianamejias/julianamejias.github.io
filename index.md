@@ -12,5 +12,8 @@ permalink: /
     <p>My research focuses on the frequency and duration of aerosol extreme events (AEEs) and their associated meteorological regimes over the U.S. Southwest.</p>
   </div>
 
+  You can find my CV <a href="/files/CV_Juliana_Mejia_Sepulveda.docx.pdf" target="_blank">here</a>.
+
+
 
 
